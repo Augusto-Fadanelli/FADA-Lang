@@ -6,7 +6,7 @@ Para resolver este problema, usamos a abordagem de filtrar cada palavra inserida
 
 ### Autômato que marque a Linguagem
 
-![automato](img/grafo.jpeg)
+![automato](img/automato.jpeg)
 
 ### Primeiros Passos
 

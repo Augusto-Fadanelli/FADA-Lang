@@ -31,7 +31,7 @@ Nesta ultima etapa executamos um exemplo de teste para reconhecer uma palavra qu
 ### Exemplo de Saída
 
 Exemplo de saída para script = 'if a == " ba = == = = a + c " x,y 1a 10 b1 c4c 9.8'
-![saida](img/saida.jpeg)
+![saida](img/saida.jpg)
 
 
 ### Conclusão
